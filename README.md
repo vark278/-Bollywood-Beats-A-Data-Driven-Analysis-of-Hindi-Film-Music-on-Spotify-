@@ -1,0 +1,2 @@
+# -Bollywood-Beats-A-Data-Driven-Analysis-of-Hindi-Film-Music-on-Spotify-
+This project analyzes Bollywood songs on Spotify, exploring trends in genres, artists, and audio features like danceability and energy. It includes visualizations like bar plots, pie charts, radar charts, and song recommendations to uncover patterns in song popularity and audio characteristics within the Bollywood music scene.
